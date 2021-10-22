@@ -10,7 +10,7 @@
   },
   "content_scripts": [
     {
-      "matches": [ "" ],
+      "matches": [ "https://service.kaonavi.jp/*" ],
       "js": [ "main.js" ],
       "css": [ "main.css" ]
     }
